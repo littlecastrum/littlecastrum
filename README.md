@@ -1,24 +1,19 @@
+## Bio
 ### Hi there, I'm Dan! I'm a Senior Frontend Engineer at [Lantum][lantum] 👋
 
+- 💻 I have spent most of my carreer with JS in all it's shapes so I feel very confident working with it in the Front or Back
 - 👀 I’m interested in OS, Networking and low level stuff that I have no experience on
 - 🌱 I’m currently learning "nand2tetris" which is basically very elementary knowledge on computers
 - 💞️ I’m looking to collaborate on systems programming and networking or just something different
+- 🧗‍♂️ I'm very passionate about climbing which is my main passion outside of work
 
-### Spotify Playing 🎧
+### Now listening 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Dan's Spotify Playing" width="350" />](https://open.spotify.com/user/qkjfz4uoqv8522w5th1tr3sqk)
-
-### Connect with me:
-
-[<img align="left" alt="iponce42 | LinkedIn" width="22px" src="https://www.lawyersandsettlements.com/blog/wp-content/uploads/2013/09/LinkedIn-Logo-02.png" />][linkedin]
-
-<br />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qkjfz4uoqv8522w5th1tr3sqk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=qkjfz4uoqv8522w5th1tr3sqk&redirect=true)
 
 ### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,ts,html,css,sass,git,materialui,vscode,py,ruby,linux)](https://skillicons.dev)
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
 [lantum]: http://www.lantum.com
